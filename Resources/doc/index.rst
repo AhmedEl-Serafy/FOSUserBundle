@@ -248,6 +248,7 @@ would have to be set to "main", as shown in the proceeding examples:
             main:
                 form_login:
                     provider: fos_userbundle
+                anonymous: true
 
 ORM
 ~~~
